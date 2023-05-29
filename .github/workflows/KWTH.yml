@@ -29,11 +29,15 @@ jobs:
           git config --global user.name "Update"
       
       
-      - name: Main
+      - name: grab m3u files
         run: |
           pwd
           cd ./core/platforms/
+<<<<<<< HEAD:.github/workflows/KWTH.yml
           python3 kwtx.py > ../../streams/KWTHDT1.m3u8
+=======
+          python3 dailymotion.py "x7wcr45" > ../../streams/TFM.m3u8
+>>>>>>> a7ee4a94b (updating dailymotion and adding channels):.github/workflows/TFM.yml
           echo "m3u grabbed"
         
       - name: git add
