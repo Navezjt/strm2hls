@@ -1,19 +1,84 @@
-#EXTM3U
+#EXTINF:-1,8 Mont-Blanc
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+#EXTINF:-1,ATB (Cochabamba)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_Cochabamba.m3u8
+#EXTINF:-1,ATB (La Paz)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_La_Paz.m3u8
+#EXTINF:-1,ATB (Santa Cruz)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_Santa_Cruz.m3u8
+#EXTINF:-1,elocho TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/elocho.m3u8
+#EXTINF:-1,Journal du golf
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Journal_du_golf.m3u8
 #EXTINF:-1,Porto Canal
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/PortoCanal.m3u8
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
 #EXTINF:-1,PTV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/PTV.m3u8
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
+#EXTINF:-1,Red Uno (Cochabamba)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Red_Uno_Cochabamba.m3u8
+#EXTINF:-1,Red Uno (La Paz)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Red_Uno_La_Paz.m3u8
+#EXTINF:-1,Red Uno (Santa Cruz)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Red_Uno_Santa_Cruz.m3u8
+#EXTINF:-1,RFM
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/RFM.m3u8
 #EXTINF:-1,Sardegna 1
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/Sardegna1.m3u8
-#EXTINF:-1,Télénantes
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/Telenantes.m3u8
-#EXTINF:-1,TFM (Télé Futur Médias)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/TFM.m3u8
-#EXTINF:-1,TV Vendée
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/TVVendee.m3u8
-#EXTINF:-1,thessaliaTV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/thessaliatv.m3u8
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
 #EXTINF:-1,sintesis_tv
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/sintesis_tv.m3u8
-#EXTINF:-1,tvcklive
-https://raw.githubusercontent.com/azgaresncf/strm2hls/v2/streams/tvcklive.m3u8
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+#EXTINF:-1,Télenantes
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
+#EXTINF:-1,TFM
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
+#EXTINF:-1,thessalia tv
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8
+#EXTINF:-1,tvctklive
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+#EXTINF:-1,TV Vendée
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVVendee.m3u8
+#EXTINF:-1,TVX
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+<<<<<<< HEAD
+=======
+#EXTINF:-1,Euronews_Greece
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Greece.m3u8
+#EXTINF:-1,Dion TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTVKentrikisMakedonias.m3u8
+#EXTINF:-1,Rodopi TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
+#EXTINF:-1,Tileorasi Kosmos ΡΟΔΟΣ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8
+#EXTINF:-1,VERGINA TV
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
+#EXTINF:-1,Lepanto TV ΠΑΤΡΑ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
+#EXTINF:-1,Flash TV Kozani
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
+#EXTINF:-1,STAR Βορείου Ελλάδος
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvstarfm.m3u8
+<<<<<<< HEAD
+#EXTINF:-1,STAR Κεντρικής Ελλάδας
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/StarL.m3u8
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+
+
+>>>>>>> 0398aa3cc (Added Greek Channels Of Twitch)
+=======
+>>>>>>> 9775bee9a (Update index.m3u8)
+=======
+=======
+#EXTINF:-1,Star Kentrikis Eladas 
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8
+>>>>>>> 37add829e (editing channels)
+#EXTINF:-1,TOP CHANNEL ΚΟΖΑΝΗ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Top_Channel_Greece.m3u8
+#EXTINF:-1,Pronews TV ΠΑΤΡΑ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
+#EXTINF:-1,TV ΙΩΝΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
+#EXTINF:-1,CENTER TV ΚΑΒΑΛΑ
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
+>>>>>>> f2cdf0004 (Update index.m3u8)

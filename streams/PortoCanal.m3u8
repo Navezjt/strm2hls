@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
@@ -15,3 +16,8 @@ https://stream-04.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sThFoUkz12kvqyxeW
 https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sThFoUkz12kvqyxeWmyTcjkKPv0g04jEt8i0DtmaOIr)/dm/3/x8egnb8/s/live-2.m3u8#cell=lnyc
 
 >>>>>>> 5b162869e (re-adding streams)
+=======
+#EXTM3U
+#EXTINF:-1,Porto Canal
+https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+>>>>>>> 0e9396ceb (adding and editing channels)

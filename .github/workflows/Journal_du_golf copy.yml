@@ -1,0 +1,43 @@
+name: Sertv (Panamá)
+
+on:
+  schedule:
+    - cron: '0 4,16 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+       
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Update"
+      
+      
+      - name: grab m3u files
+        run: |
+          pwd
+          cd ./core/platforms/
+<<<<<<< HEAD:.github/workflows/Journal_du_golf copy.yml
+          python3 dailymotion.py "x81cvsk" > ../../streams/Sertv.m3u8
+=======
+          python3 dailymotion.py "x8s1at2" > ../../streams/Red_Uno_Santa_Cruz.m3u8
+>>>>>>> edd2f5eba (changing red uno links - fixes #97):.github/workflows/Red Uno (Santa Cruz).yml
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "Sertv (Panamá) updated"
+          git push

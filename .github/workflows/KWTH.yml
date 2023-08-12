@@ -1,28 +1,27 @@
+<<<<<<< HEAD:.github/workflows/KWTH.yml
 # This is a basic workflow to help you get started with Actions
 
 name: KWTH-DT1
+=======
+name: Imagen Televisión (México)
+>>>>>>> 80bb73864 (removing useless comments):.github/workflows/imagen_tv.yml
 
-# Controls when the workflow will run
 on:
   schedule:
     - cron: '*/5 * * * *'
   
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
+
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
       - uses: actions/checkout@v2
 
-      # 
+       
       - name: config
         run: |
           git config --global user.email "<>"
@@ -34,11 +33,15 @@ jobs:
           pwd
           cd ./core/platforms/
 <<<<<<< HEAD:.github/workflows/KWTH.yml
+<<<<<<< HEAD:.github/workflows/KWTH.yml
           python3 kwtx.py > ../../streams/KWTHDT1.m3u8
 =======
           python3 dailymotion.py "x7wcr45" > ../../streams/TFM.m3u8
 >>>>>>> a7ee4a94b (updating dailymotion and adding channels):.github/workflows/TFM.yml
           echo "m3u grabbed"
+=======
+          python3 dailymotion.py "x82z4if" > ../../streams/imagen_tv.m3u8
+>>>>>>> 80bb73864 (removing useless comments):.github/workflows/imagen_tv.yml
         
       - name: git add
         run: |

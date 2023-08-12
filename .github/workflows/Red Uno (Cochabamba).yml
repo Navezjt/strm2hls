@@ -1,28 +1,21 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Red Uno (Cochabamba)
 
-# Controls when the workflow will run
 on:
   schedule:
     - cron: '0 4,16 * * *'
   
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
+
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
       - uses: actions/checkout@v2
 
-      # 
+       
       - name: config
         run: |
           git config --global user.email "<>"
@@ -33,8 +26,16 @@ jobs:
         run: |
           pwd
           cd ./core/platforms/
+<<<<<<< HEAD
+<<<<<<< HEAD
           python3 dailymotion.py "x827j2y" > ../../streams/Red_Uno_Cochabamba.m3u8
           echo "m3u grabbed"
+=======
+          python3 dailymotion.py "x8ob23p" > ../../streams/Red_Uno_Cochabamba.m3u8
+>>>>>>> 80bb73864 (removing useless comments)
+=======
+          python3 dailymotion.py "x8ra7t7" > ../../streams/Red_Uno_Cochabamba.m3u8
+>>>>>>> edd2f5eba (changing red uno links - fixes #97)
         
       - name: git add
         run: |
