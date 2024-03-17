@@ -1,2 +1,39 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 Stream not found for kardamena_team. Skipping...
 No stream available for kardamena_team. Moving to the next channel...
+=======
+#EXTM3U
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+#EXT-X-STREAM-INF:BANDWIDTH=168000,RESOLUTION=1200x672,CODECS="avc1.640020,mp4a.40.2",VIDEO="chunked",FRAME-RATE=60.000
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/CtcEmhR67Dv3NECRkHaQoe1vDwsTQuCCTFnT9RlWQo9SlW-y7Oy_75VqbFWxXjSPllFfVABHPEgl4BZvE1GU4MxWf1zt1j1qFK6haQcbUnIlyKlBxLwg7CJLeGuMkaHhG_VV1Mmyp0rObA7LBYTN2vQSeVz6olCs4yPhm3XGgd76W71cpc-1Np_gsKXnPP78qgn4A5AvC40RmjwBU-A7m3FlFhcgSWODMTh7m4joO8FP8TXD9iSXmge2V7cRNMQg9Z6Ck_ehQYnR2ki7QtabGNFEo813veQODRYtdoWkfUB7D-AHcldWDY4kWjgyqZR_BNeVdNE6LQQdX6xznCpRPfnm-3K9-kWvpma-O7j7US0QBUnz1pzUQCo7wYgxW355u5WaFGqgyM48kiiVdNHk82b2Jd0W6h61GITsAqbaFqPyUTVMfs2DYjNzeKyi7aXWhWjtJpVkGyR1ags3fU_NZOR52D3K_KaRA1yQdPIWsb2o3hEgEFQRUaHSUOpaJIb3tpSBhs9OlWf57R-iRhzROVVdnwm8Z2GWsg4VuAHP2bnNJl2gjmRii29fnNFUEU-zPodGzCWEuJwpg9OWtaQTI95hcuxT7t-5boM38m7ydp-0soqmq725L0K8DpzN5dQ645zVV-gM-P-W_6N86ZS-0LeGmsXkhGoK826W1NffZ0OW5A8cm5OCEUq-oiwofM5mQW1wjmyIf-5c2BAbB18XKj6uIak8SCfJrCZmMG6pQ3sDte7X1Mf4oY9QnGX7NWHhSp0PNIUM7m-zDZ5xZdIoA_OS8IFNQXgHCkAaDIhwx97ghiQdpt_BgiABKgl1cy1lYXN0LTEwsQc.m3u8
+>>>>>>> 8e098a8 (streams updated)
+=======
+#EXT-X-STREAM-INF:BANDWIDTH=3671063,RESOLUTION=1200x672,CODECS="avc1.640020,mp4a.40.2",VIDEO="chunked",FRAME-RATE=60.000
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtUEZO7saI39bS_-6ZZtFtrGYGZ4Su5eK9-rInf3ArarVpEPrOYLNgIHPIedrwZjsWlE49rpxpdzLEvq1tmvfhcBEHVWvLxpXwmTd6bOtuRHv9wYHk9tibxwKHEQXYsonTpXiqHXXw6xSqSNPwOusYEniXQPU8wHFyRd5HtrvTLJC3ASqt0SWdUNcB0jI83Fz9dUDtHiHy54clpZluRtnvfAzhJedE9rR8pxQr68UWXjHKFXq9ykOmpF-COLdlyhHUCUsHcd69tuFuvBbVBWvwIaLeX4PwAHA6kc8i303SA900ouSI5ddiprYMYk4OOmbEGwRZ2JNVO8mAgSkh53R99BEFT9Cv3h3vMp9aWTSl6wnKUxjHRnQMPK9DulvmEgrTg1TgnT-YNdtyttLNLIII9IarxJ9XX4xOl1OJCfGtbi9Wo6xmyh2rAvlpYJzWB3NAEj1GV1IA9qgbeWdFF88iKUqYmbUFfy6WT1ibIDXvgyfTrvP50xliWQl3IpzP1YBnE-tLztEduFTNSacz3Tx3RZ0Xlm6suYayGF8glbedtYWBWt7dffdrfHxsVfaw1UXIp9m-z82OoCLcYtC36-SnveRPYzVYjF3cBG8guny031GohoKzfUeQclTY8T1RNS6Toc_OpuzfIw80As4uS3e-E04PjLFEb-Oyzz4H4C9q1j0915cFIrHjkHuVk17E0Rp5tzwZ1_Fj9Sox2kV1oTPk4WeGTeVXLtvnvXzrxDIZ2Uaw0_lnh8gVlle3PfftjXYGcKPBL1pGYqFeWB2ZGCqPD57zI4swYfGgxKhvpGPLAxbcey_lcgASoJdXMtd2VzdC0yMPwI.m3u8
+>>>>>>> 82f0663 (streams updated)
+=======
+#EXT-X-STREAM-INF:BANDWIDTH=168000,RESOLUTION=1200x672,CODECS="avc1.640020,mp4a.40.2",VIDEO="chunked",FRAME-RATE=60.000
+https://video-weaver.jfk50.hls.ttvnw.net/v1/playlist/CtQE3mA1Iy1KHW2r7nB4ZZGUkCxrbBCtxI5kGtNASTm86j-DWANzjdzIYPFhyZBzR_b7CEDJpVcrv0X9CDuEqDbDmfw_5cLnWqDttgs9wwAzLHgM4rlM6-GjQzqnAJCZfkoONkC6iaijwY1SqCvHpZbqi8YMX4BgsPIw4LvoZYlrZw2DBLkhj4wJ1kh3MmO_bRxXwLSnV-1i-5oPtcFqadKLBxi8sfhqrsi_eEoaScLneKsiwjQuUgDIaFDCfhpaPz7QqFQj5hOXh-Ic-3_rfV2ruol1Pb49YyQZE5W0H97HI6G55Pk_17KVlACaI3v8uTntiSnzo2XaR-l1i-yXP8PtyaIfRnO9ofK4-BuzvQ16kKKrzsG-7_mkV3q-6KPcvNTY1go1F0WS0DYZMWEgZaFkOClWiHV9QAjk-JvDa2dFdu7CmZkKusECMHqQmCypZ89vZTUAhxcVYgSd6fPgK1qOs6IS6II87Rbg0T19oUxuxny1yFy2h6jIOJXsNuZOv8LWM5hA5fp0FF1MTvGRtFWP2S4InZzgvF9xyzg9gcfO87SSfCRGsr4S3KOLwhVLuYN4I6Erix7jXo6SPIjo3fIyTGZ0zzDx78S_y4h7E7UhbIx0cHTAtmNj-Wk9bRV8CS_TYBghfbO7f-tPpbz0lcigJyL8XCa8MDXuXEahVK97MCUQLJVr0NOqWzkbtOdMW0HfDxL-lySHpTTxl3cYIS4QRZj88qdNrlwhc9ZIOkUHYeDufpxcHqrnXsB_KW2XjCkPwVYzPAKd7Lcg7sRRN4dMBYF0CJEaDE3Xj_fIfctJDFJHVyABKgl1cy1lYXN0LTEwsgc.m3u8
+>>>>>>> b04593f (streams updated)
+=======
+#EXT-X-STREAM-INF:BANDWIDTH=3583019,RESOLUTION=1200x672,CODECS="avc1.640020,mp4a.40.2",VIDEO="chunked",FRAME-RATE=60.000
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtEEeUXHnzebYSzpY8f9c-lM5AZmVMY8OmLakbCjCDRPzwTlU7eZyQvMU5op7vv2UXpXw3OLrMYGVp6tjkv3wPJj6eBYLCpYKrzo1RyeoFsKOHasdw2nSv7GvDi_zNh1AcXTZp3YJaGsDhE7JErrs9sWbotSyC_vIwISwY2vXpHFYtBz-EYJ3LW5Lo3WIlhWlEG6zaA5RW06Cyz1yH2gpcCsoO8_QgBF0ahM_eS992sTfyydIj-OuT84XrAQrokTxLJ7CqH35_718CfBKkRIEHlYkSRjwwY5TVCVMHc5vrBVrlQt5BzsM85L50uI__ANGyyB1Xbto31h2OpAlfZg3Jh316HKsL-C02J513GPEUx2SRl0Rdiz7f0AU7vA-SVYg-Vv5OzAgJrjED8p2MvDZpKBqAq2tDzL7kClL6jzni2MTgUMBA7yu09cWKjTnAkqjMxeDwyx56sIraLm8DhDvEhEXDjOzMmSSU8rsIq57EWTK4g3JEoiLJ_ON2Kg0UBKT2BJmK7JQB19FWngNGSfp3N1JYkdIfFFEjyHXtbdNFdCLx-9k6iud_0q1Aei5PhAhRf3eb5RyGP5Ctto7TaJXH7HQc15odMSXnqEzhfcMTBe0IwU-KwYX1OFf9IwqQ5RCzG1SL6CrxShXA1bUi7djyx3vWV-CIdfhBYuZ2mC217KUtfQThsfOSGgVD-xVIgjR4lFBbkldEySPHyJGz5GBBbC1nXduoWpTHtWd6BlLVy0WkIWgcggdVWXcVbOUCGkp0Mwe_1Sy2uZPHxKZb57Ktgv6g8aDNStQY3YuJyLlTkxNSABKgl1cy13ZXN0LTIw_Ag.m3u8
+>>>>>>> c104042 (streams updated)
+=======
+Stream not found for kardamena_team. Skipping...
+No stream available for kardamena_team. Moving to the next channel...
+>>>>>>> 14f498e (streams updated)
+=======
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=3666717,RESOLUTION=1200x672,CODECS="avc1.640020,mp4a.40.2",VIDEO="chunked",FRAME-RATE=60.000
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CtQE32-0Vwy9BHrr9xPvyngU0G11D-VN-IcLvwnZUPi6x8xO8I8Qak3-Epks9IVJGE5z3Je9aE6MZt2lvegYxrsUhYguLp1CXVhMpCTucaHOPX8iWXe3EgphWIInsv5FEZNCAz_nGZmBFY_CTPd_OdAVfJluwZKBS-exVhEyZK-tx-7aqdeiPBNTQJ6o0TIqR3OjBbZWgB4XLMtTFsR5Y1V0l_1U4MEx6r1crW-aCyU9oU22yM9YbdSwtKnKLjEyXMmwF--gWb9X0uOLP6em2sp_HLTwYq5FNdGYe2AauwT1sHVkGfmftf1nhyIvHGoBPCgvSeiiI4l12lFMIiuQszxrO1C5Lb0uqFfI6vkL4bE1Cd6wEhdqzqyFdpNRQ6Y-hLqbSNX88oESfwguEjmqdhalhAXvF55WKsUr_a4SpdiBrsr1gfH-FLQOpbWiFM_tRlrNZWrEby0CORIxLpjwscmSpwxB8rPmDHQ9SRbT2Y8av5JliT7B08n_O-Pvz5XzP1d_BKdeN9AYKfxNqf12rOiEbZQ61euTV3p48e9bNQqqJNZsUqSSssByK0qauU1sJY8VwD3yt9EQTLGCfOcianwrYq7eighsFUker9wXYzb0hQ895AtcdNWLw6W6zx1elCpJdAHS3CHGYlu1AR6CZhR36fBNleqPtpgLsYRJNEPurH_3UguWohGCO2AJZl938AML6AJf51etBpnv7xuJGz4J1GGvxV6AFVkvPX2u5rb02k2f4LhddSvDb0VfYI6uroDwlKA3Uhd-a_5f5VOcacUJBb7Ped4aDJkmRoUAwgvgK42ghyABKgl1cy1lYXN0LTEwsgc.m3u8
+>>>>>>> 0826866 (streams updated)
+=======
+Stream not found for kardamena_team. Skipping...
+No stream available for kardamena_team. Moving to the next channel...
+>>>>>>> fad6d3a (streams updated)

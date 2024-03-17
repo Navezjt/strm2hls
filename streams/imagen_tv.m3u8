@@ -1,8 +1,28 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=30.000000,BANDWIDTH=1359872,CODECS="avc1.42001f,mp4a.40.2",NAME="480"
+<<<<<<< HEAD
+<<<<<<< HEAD
 https://live-c.cf.dmcdn.net/sec2(BAOQOWWqMrcmAWPeSbw8cdETjiamNxV99P6CsYW9lkwZNOt92brr7O5Wz6zj5vKDnD9ug5UxcZkm6yULAVGYNDckSUvvCog1Nr5SobvfhtU)/dm/3/x82z4if/d/live-1.m3u8#cell=lcfc
 #EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
 https://live-c.cf.dmcdn.net/sec2(BAOQOWWqMrcmAWPeSbw8cdETjiamNxV99P6CsYW9lkwZNOt92brr7O5Wz6zj5vKDnD9ug5UxcZkm6yULAVGYNDckSUvvCog1Nr5SobvfhtU)/dm/3/x82z4if/d/live-0.m3u8#cell=lcfc
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.42001f,mp4a.40.2",NAME="720"
 https://live-c.cf.dmcdn.net/sec2(BAOQOWWqMrcmAWPeSbw8cdETjiamNxV99P6CsYW9lkwZNOt92brr7O5Wz6zj5vKDnD9ug5UxcZkm6yULAVGYNDckSUvvCog1Nr5SobvfhtU)/dm/3/x82z4if/d/live-2.m3u8#cell=lcfc
+=======
+https://live-c.cf.dmcdn.net/sec2(R2UZ6wropPR3gY4K1M-kjRTM_usVqtq0Nt4FOOWZMHb3sB1jNUtHagbGcn3lMP4T-ihVc0kToe1z2Z6bMbDs4VdEzwsPfT03QyPH05H1uXo)/dm/3/x82z4if/d/live-1.m3u8#cell=lcfc
+=======
+https://live-c.cf.dmcdn.net/sec2(j5_4STXwM9LynqNOOcqIutiHQCQ8Dpfw9WUjS_cHn_HgI__X6_Yhlw81DrwO-r_EKNsfZaUkcweVz3CGp_Zn3cmPKUFbu-CcU7a33IITlq8)/dm/3/x82z4if/d/live-1.m3u8#cell=lcfc
+>>>>>>> 14f498e (streams updated)
+#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=30.000000,BANDWIDTH=475136,CODECS="avc1.42000d,mp4a.40.5",NAME="240"
+https://live-c.cf.dmcdn.net/sec2(j5_4STXwM9LynqNOOcqIutiHQCQ8Dpfw9WUjS_cHn_HgI__X6_Yhlw81DrwO-r_EKNsfZaUkcweVz3CGp_Zn3cmPKUFbu-CcU7a33IITlq8)/dm/3/x82z4if/d/live-0.m3u8#cell=lcfc
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=30.000000,BANDWIDTH=2179072,CODECS="avc1.42001f,mp4a.40.2",NAME="720"
+<<<<<<< HEAD
+https://live-c.cf.dmcdn.net/sec2(R2UZ6wropPR3gY4K1M-kjRTM_usVqtq0Nt4FOOWZMHb3sB1jNUtHagbGcn3lMP4T-ihVc0kToe1z2Z6bMbDs4VdEzwsPfT03QyPH05H1uXo)/dm/3/x82z4if/d/live-2.m3u8#cell=lcfc
+>>>>>>> b04593f (streams updated)
+=======
+https://live-c.cf.dmcdn.net/sec2(j5_4STXwM9LynqNOOcqIutiHQCQ8Dpfw9WUjS_cHn_HgI__X6_Yhlw81DrwO-r_EKNsfZaUkcweVz3CGp_Zn3cmPKUFbu-CcU7a33IITlq8)/dm/3/x82z4if/d/live-2.m3u8#cell=lcfc
+>>>>>>> 14f498e (streams updated)
 
+=======
+No streams available for this video.
+>>>>>>> fad6d3a (streams updated)
