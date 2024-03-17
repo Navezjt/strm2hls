@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 <<<<<<< HEAD
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=29.970030,BANDWIDTH=1359872,CODECS="avc1.64001f,mp4a.40.2",NAME="480"
@@ -21,3 +22,6 @@ https://stream-01.sv4.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDj6qQxrA_jzd6jNJ2z
 #EXTINF:-1,Red Uno (La Paz)
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 >>>>>>> 0e9396ceb (adding and editing channels)
+=======
+No streams available for this video.
+>>>>>>> f93150399 (completely change stream structure)

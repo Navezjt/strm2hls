@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #EXTM3U
 #EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=29.970030,BANDWIDTH=1359872,CODECS="avc1.64001f,mp4a.40.2",NAME="480"
@@ -19,3 +20,6 @@ https://stream-03.nyc.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwM-pby0ZvVs7iEx7Ju
 https://stream-04.nyc.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwM-pby0ZvVs7iEx7JuNKz5SgI5nzHw4XVrkiyC7LflaB)/dm/3/x5cr6b9/d/live-3.m3u8#cell=lnyc
 
 >>>>>>> 5b162869e (re-adding streams)
+=======
+No streams available for this video.
+>>>>>>> f93150399 (completely change stream structure)
